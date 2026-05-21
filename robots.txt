@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://silverhealthguide.com/sitemap.xml
