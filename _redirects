@@ -1,9 +1,6 @@
 # Redirect index.html to root
 /index.html /  301
 
-# Redirect common trailing slash issues
+# Redirect clean URLs to HTML files
 /about /about.html 301
 /privacy-policy /privacy-policy.html 301
-
-# Prevent redirect loops on articles
-/articles/ /  301
